@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[70],{606:function(t,e,i){"use strict";i.r(e);var n=i(4),s=Object(n.a)({},(function(){var t=this.$createElement,e=this._self._c||t;return e("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[e("BilibiliVideo",{attrs:{bv:"BV1Ly4y1i7Ua"}})],1)}),[],!1,null,null,null);e.default=s.exports}}]);
